@@ -13,7 +13,6 @@ document.getElementById("start").addEventListener("click", () => {
 
         document.getElementById("dlugosc").textContent =
             "Długość: " + dlugosc;
-
     });
 
 });
